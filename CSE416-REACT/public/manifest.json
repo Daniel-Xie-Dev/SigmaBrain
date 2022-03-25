@@ -1,0 +1,25 @@
+{
+  "short_name": "Sigma Brain",
+  "name": "Sigma Brain Quiz Site",
+  "icons": [
+    {
+      "src": "sigmalogo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "sigmalogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "sigmalogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

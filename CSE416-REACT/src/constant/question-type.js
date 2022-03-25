@@ -1,0 +1,7 @@
+const MULTIPLE_CHOICE = 1
+
+const QUESTION_TYPE = {
+    MULTIPLE_CHOICE
+}
+
+export default QUESTION_TYPE

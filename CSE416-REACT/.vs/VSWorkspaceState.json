@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Home",
+    "\\src\\components\\Home\\FeatureCard",
+    "\\src\\components\\Home\\MainBoard",
+    "\\src\\components\\Home\\QuizDisplayBoard",
+    "\\src\\components\\QuizManagement",
+    "\\src\\components\\QuizTaking",
+    "\\src\\firebase"
+  ],
+  "SelectedNode": "\\src\\components\\QuizManagement\\style.js",
+  "PreviewInSolutionExplorer": false
+}

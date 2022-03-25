@@ -1,0 +1,39 @@
+{
+  "name": "cse416-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "dev": "set NODE_ENV=dev && nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaidev78/CSE416-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaidev78/CSE416-API/issues"
+  },
+  "homepage": "https://github.com/kaidev78/CSE416-API#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "config": "^3.3.6",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.1.3",
+    "firebase-admin": "^10.0.0",
+    "form-data": "^4.0.0",
+    "helmet": "^4.6.0",
+    "multer": "^1.4.3",
+    "mysql2": "^2.3.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
